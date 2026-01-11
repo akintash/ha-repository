@@ -2,7 +2,7 @@ name: Network UPS Tools
 version: 0.17.0
 slug: nut
 description: Manage battery backup (UPS) devices
-url: https://github.com/hassio-addons/addon-nut
+url: https://github.com/akintash/addon-nut
 startup: system
 arch:
 - aarch64
